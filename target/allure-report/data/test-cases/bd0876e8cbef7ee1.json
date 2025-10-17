@@ -1,0 +1,56 @@
+{
+  "uid" : "bd0876e8cbef7ee1",
+  "name" : "Курьера можно создать",
+  "fullName" : "ru.praktikum.services.scooter.tests.CourierCreationTest.testCourierCanBeCreated",
+  "historyId" : "8d935f0dc2ba5336c6281a40b8458283",
+  "time" : {
+    "start" : 1760695110852,
+    "stop" : 1760695112122,
+    "duration" : 1270
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ru.praktikum.services.scooter.tests"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.praktikum.services.scooter.tests.CourierCreationTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testCourierCanBeCreated"
+  }, {
+    "name" : "suite",
+    "value" : "ru.praktikum.services.scooter.tests.CourierCreationTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T7CPM37"
+  }, {
+    "name" : "thread",
+    "value" : "20444@DESKTOP-T7CPM37.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bd0876e8cbef7ee1.json",
+  "parameterValues" : [ ]
+}

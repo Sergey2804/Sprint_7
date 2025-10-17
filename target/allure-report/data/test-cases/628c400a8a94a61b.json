@@ -1,0 +1,57 @@
+{
+  "uid" : "628c400a8a94a61b",
+  "name" : "Авторизация без пароля возвращает ошибку",
+  "fullName" : "ru.praktikum.services.scooter.tests.CourierLoginTest.testLoginWithoutPassword",
+  "historyId" : "6fef9708dc86f74fab3809adb6f80b85",
+  "time" : {
+    "start" : 1760695115909,
+    "stop" : 1760695115909,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Временно отключен из-за постоянных 504 ошибок от API",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ru.praktikum.services.scooter.tests"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.praktikum.services.scooter.tests.CourierLoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testLoginWithoutPassword"
+  }, {
+    "name" : "suite",
+    "value" : "ru.praktikum.services.scooter.tests.CourierLoginTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T7CPM37"
+  }, {
+    "name" : "thread",
+    "value" : "20444@DESKTOP-T7CPM37.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "628c400a8a94a61b.json",
+  "parameterValues" : [ ]
+}

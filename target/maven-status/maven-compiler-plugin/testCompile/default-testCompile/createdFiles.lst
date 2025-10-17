@@ -1,0 +1,11 @@
+ru\praktikum\services\scooter\tests\OrderListTest.class
+ru\praktikum\services\scooter\utils\TestDataGenerator.class
+ru\praktikum\services\scooter\tests\OrderCreationTest.class
+ru\praktikum\services\scooter\models\Courier.class
+ru\praktikum\services\scooter\models\CourierCredentials.class
+ru\praktikum\services\scooter\api\OrderAPI.class
+ru\praktikum\services\scooter\tests\CourierCreationTest.class
+ru\praktikum\services\scooter\tests\CourierLoginTest.class
+ru\praktikum\services\scooter\api\CourierAPI.class
+ru\praktikum\services\scooter\models\Order.class
+ru\praktikum\services\scooter\tests\SimpleTest.class
