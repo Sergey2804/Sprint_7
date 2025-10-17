@@ -1,5 +1,6 @@
 package ru.praktikum.services.scooter.utils;
 
+import io.qameta.allure.Step;
 import ru.praktikum.services.scooter.models.Courier;
 import ru.praktikum.services.scooter.models.Order;
 
@@ -8,6 +9,7 @@ import java.util.UUID;
 
 public class TestDataGenerator {
 
+    @Step("Создание случайного курьера")
     public static Courier createRandomCourier() {
         String login = "courier_" + UUID.randomUUID().toString().substring(0, 8);
         String password = "password_" + UUID.randomUUID().toString().substring(0, 8);
@@ -15,7 +17,7 @@ public class TestDataGenerator {
 
         return new Courier(login, password, firstName);
     }
-
+    @Step("Создание заказа с цветом: {color}")
     public static Order createOrderWithColor(List<String> color) {
         Order order = new Order();
         order.setFirstName("Иван");
