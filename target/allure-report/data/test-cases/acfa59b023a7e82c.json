@@ -1,0 +1,56 @@
+{
+  "uid" : "acfa59b023a7e82c",
+  "name" : "В теле ответа возвращается список заказов",
+  "fullName" : "ru.praktikum.services.scooter.tests.OrderListTest.testGetOrdersListReturnsOrders",
+  "historyId" : "573263ec5d00d5321e4fcdac06163ef",
+  "time" : {
+    "start" : 1760695124328,
+    "stop" : 1760695131238,
+    "duration" : 6910
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ru.praktikum.services.scooter.tests"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.praktikum.services.scooter.tests.OrderListTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testGetOrdersListReturnsOrders"
+  }, {
+    "name" : "suite",
+    "value" : "ru.praktikum.services.scooter.tests.OrderListTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T7CPM37"
+  }, {
+    "name" : "thread",
+    "value" : "20444@DESKTOP-T7CPM37.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "acfa59b023a7e82c.json",
+  "parameterValues" : [ ]
+}
