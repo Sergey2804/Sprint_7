@@ -17,6 +17,7 @@ public class TestDataGenerator {
 
         return new Courier(login, password, firstName);
     }
+
     @Step("Создание заказа с цветом: {color}")
     public static Order createOrderWithColor(List<String> color) {
         Order order = new Order();
