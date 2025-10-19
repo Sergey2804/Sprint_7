@@ -1,0 +1,56 @@
+{
+  "uid" : "2c8e0ca28e92245e",
+  "name" : "Нельзя создать двух одинаковых курьеров",
+  "fullName" : "ru.praktikum.services.scooter.tests.CourierCreationTest.testCannotCreateDuplicateCourier",
+  "historyId" : "18b09c98103f84935d49094a6d4cb32f",
+  "time" : {
+    "start" : 1760695108374,
+    "stop" : 1760695110389,
+    "duration" : 2015
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ru.praktikum.services.scooter.tests"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.praktikum.services.scooter.tests.CourierCreationTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testCannotCreateDuplicateCourier"
+  }, {
+    "name" : "suite",
+    "value" : "ru.praktikum.services.scooter.tests.CourierCreationTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T7CPM37"
+  }, {
+    "name" : "thread",
+    "value" : "20444@DESKTOP-T7CPM37.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2c8e0ca28e92245e.json",
+  "parameterValues" : [ ]
+}

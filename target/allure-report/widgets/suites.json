@@ -1,0 +1,59 @@
+{
+  "total" : 5,
+  "items" : [ {
+    "uid" : "08c8556e7afc4b1041d2b4865d8b75b6",
+    "name" : "ru.praktikum.services.scooter.tests.CourierLoginTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "e38f2cd7ed69ae2f455d4d028f7e402d",
+    "name" : "ru.praktikum.services.scooter.tests.CourierCreationTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "3b4fb18210b21c40ddf4aa0b091b7152",
+    "name" : "ru.praktikum.services.scooter.tests.OrderCreationTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "043d82886c4a3e986c0daf3abfc39b06",
+    "name" : "ru.praktikum.services.scooter.tests.OrderListTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "5066ebb2e8f558d35d100337fbf5b937",
+    "name" : "ru.praktikum.services.scooter.tests.SimpleTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

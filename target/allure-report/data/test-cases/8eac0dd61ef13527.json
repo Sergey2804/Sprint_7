@@ -1,0 +1,56 @@
+{
+  "uid" : "8eac0dd61ef13527",
+  "name" : "Создание заказа с разными цветами",
+  "fullName" : "ru.praktikum.services.scooter.tests.OrderCreationTest.testCreateOrderWithDifferentColors[2]",
+  "historyId" : "2348ebc844f65832f685156625d89e6b",
+  "time" : {
+    "start" : 1760695123206,
+    "stop" : 1760695123677,
+    "duration" : 471
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ru.praktikum.services.scooter.tests"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.praktikum.services.scooter.tests.OrderCreationTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testCreateOrderWithDifferentColors[2]"
+  }, {
+    "name" : "suite",
+    "value" : "ru.praktikum.services.scooter.tests.OrderCreationTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T7CPM37"
+  }, {
+    "name" : "thread",
+    "value" : "20444@DESKTOP-T7CPM37.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8eac0dd61ef13527.json",
+  "parameterValues" : [ ]
+}

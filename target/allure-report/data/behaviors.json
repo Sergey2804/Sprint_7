@@ -1,0 +1,213 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Создание курьера без логина возвращает ошибку",
+    "uid" : "eefeeb7e6c414cc8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1760695101193,
+      "stop" : 1760695108198,
+      "duration" : 7005
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Нельзя создать двух одинаковых курьеров",
+    "uid" : "2c8e0ca28e92245e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1760695108374,
+      "stop" : 1760695110389,
+      "duration" : 2015
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Создание курьера без пароля возвращает ошибку",
+    "uid" : "dadfadaf37dce80c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1760695110399,
+      "stop" : 1760695110847,
+      "duration" : 448
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Курьера можно создать",
+    "uid" : "bd0876e8cbef7ee1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1760695110852,
+      "stop" : 1760695112122,
+      "duration" : 1270
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Курьер может авторизоваться",
+    "uid" : "f0a5de64e85383fc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1760695112151,
+      "stop" : 1760695113931,
+      "duration" : 1780
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Авторизация с неверным паролем возвращает ошибку",
+    "uid" : "5abe0bb5a72a742",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1760695113935,
+      "stop" : 1760695115899,
+      "duration" : 1964
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Авторизация без пароля возвращает ошибку",
+    "uid" : "628c400a8a94a61b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1760695115909,
+      "stop" : 1760695115909,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Успешный запрос возвращает id",
+    "uid" : "fbd9f8535f02a47",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1760695115919,
+      "stop" : 1760695117696,
+      "duration" : 1777
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Авторизация под несуществующим пользователем возвращает ошибку",
+    "uid" : "49718f3d9e0e2f1b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1760695117703,
+      "stop" : 1760695120468,
+      "duration" : 2765
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Авторизация без логина возвращает ошибку",
+    "uid" : "f5c491d1e867c722",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1760695120472,
+      "stop" : 1760695122179,
+      "duration" : 1707
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Создание заказа с разными цветами",
+    "uid" : "7bca6f2de719d034",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1760695122226,
+      "stop" : 1760695122811,
+      "duration" : 585
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Создание заказа с разными цветами",
+    "uid" : "954be33b75fb2aec",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1760695122815,
+      "stop" : 1760695123203,
+      "duration" : 388
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Создание заказа с разными цветами",
+    "uid" : "8eac0dd61ef13527",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1760695123206,
+      "stop" : 1760695123677,
+      "duration" : 471
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Создание заказа с разными цветами",
+    "uid" : "85acf83d7db51786",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1760695123683,
+      "stop" : 1760695124323,
+      "duration" : 640
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "В теле ответа возвращается список заказов",
+    "uid" : "acfa59b023a7e82c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1760695124328,
+      "stop" : 1760695131238,
+      "duration" : 6910
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "simpleTest",
+    "uid" : "f31187208255545",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1760695131243,
+      "stop" : 1760695131244,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

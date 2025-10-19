@@ -1,0 +1,18 @@
+# Maven
+
+pom.xml.tag
+pom.xml.versionsBackup
+
+# IDE
+.idea/
+*.iml
+*.iws
+
+# System
+.DS_Store
+Thumbs.db
+
+# Исключаем только временные файлы сборки, но оставляем отчеты
+!/allure-report/
+!/allure-results/
+EOF
